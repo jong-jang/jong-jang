@@ -10,5 +10,5 @@
  [![jong-jang's github stats](https://github-readme-stats.vercel.app/api?username=jong-jang)](https://github.com/anuraghazra/github-readme-stats)
  
  
- 
+ https://img.shields.io/badge/<LABEL>-<CSS>-<Blue>
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjh0299@gmail.com)](mailto:jjh0299@gmail.com)
