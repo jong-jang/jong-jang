@@ -13,3 +13,4 @@
 ![CSS]( https://img.shields.io/badge/-CSS-blue)
 ![HTML](https://img.shields.io/badge/-HTML-red)
 ![JS](https://img.shields.io/badge/-javascript-yellow)
+![jQuery](https://img.shields.io/badge/-jQuery-blue)
