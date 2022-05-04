@@ -10,10 +10,4 @@
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjh0299@gmail.com)](mailto:jjh0299@gmail.com)
  
 ### skils
-<img src="https://img.shields.io/badge/HTML-dddddd?style=for-the-badge&logo=Html5&logoColor=E34F26">
-<img src="https://img.shields.io/badge/CSS-dddddd?style=for-the-badge&logo=Css3&logoColor=1572B6">
-<img src="https://img.shields.io/badge/JavaScript-dddddd?style=for-the-badge&logo=JavaScript3&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/jQuery-dddddd?style=for-the-badge&logo=jQuery&logoColor=0769AD">
-<img src="https://img.shields.io/badge/Gulp-dddddd?style=for-the-badge&logo=gulp&logoColor=CF4647">
-<img src="https://img.shields.io/badge/Sass-dddddd?style=for-the-badge&logo=Sass&logoColor=ff8888">
-<img src="https://img.shields.io/badge/React-dddddd?style=for-the-badge&logo=React&logoColor=8888ff">
+<img src="https://img.shields.io/badge/HTML-dddddd?style=for-the-badge&logo=Html5&logoColor=E34F26"><img src="https://img.shields.io/badge/CSS-dddddd?style=for-the-badge&logo=Css3&logoColor=1572B6"><img src="https://img.shields.io/badge/JavaScript-dddddd?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"><img src="https://img.shields.io/badge/jQuery-dddddd?style=for-the-badge&logo=jQuery&logoColor=0769AD"><img src="https://img.shields.io/badge/Gulp-dddddd?style=for-the-badge&logo=gulp&logoColor=CF4647"><img src="https://img.shields.io/badge/Sass-dddddd?style=for-the-badge&logo=Sass&logoColor=ff8888"><img src="https://img.shields.io/badge/React-dddddd?style=for-the-badge&logo=React&logoColor=8888ff">
