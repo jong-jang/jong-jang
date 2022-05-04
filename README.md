@@ -11,4 +11,4 @@
  
 ### skils
 ![CSS]( https://img.shields.io/badge/-CSS-blue)
-![HTML5] (https://img.shields.io/badge/-HTML-red)
+![HTML](https://img.shields.io/badge/-HTML-red)
