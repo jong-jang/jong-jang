@@ -10,5 +10,5 @@
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjh0299@gmail.com)](mailto:jjh0299@gmail.com)
  
 ### skils
-<img src="https://img.shields.io/badge/Sass-88ff88?style=for-the-badge&logo=Sass&logoColor=ff8888">
-<img src="https://img.shields.io/badge/React-88ff88?style=for-the-badge&logo=React&logoColor=8888ff">
+<img src="https://img.shields.io/badge/Sass-aaffaa?style=for-the-badge&logo=Sass&logoColor=ff8888">
+<img src="https://img.shields.io/badge/React-aaffaa?style=for-the-badge&logo=React&logoColor=8888ff">
