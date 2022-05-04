@@ -6,7 +6,7 @@
  
 </div>
 
-### email
+### E-mail
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjh0299@gmail.com)](mailto:jjh0299@gmail.com)
  
 ### skils
@@ -14,3 +14,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-red)
 ![JS](https://img.shields.io/badge/-javascript-yellow)
 ![jQuery](https://img.shields.io/badge/-jQuery-blue)
+![Gulp](https://img.shields.io/badge/-gulp-red)
+
+<img src="https://img.shields.io/badge/Sass-57BCDA?style=for-the-badge&logo=Sass&logoColor=20232A">
+<img src="https://img.shields.io/badge/React-57BCDA?style=for-the-badge&logo=React&logoColor=20232A">
