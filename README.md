@@ -1,6 +1,6 @@
 <div align=center>
 
- ![jong-jang's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+ ![jong-jang's github stats](https://github-readme-stats.vercel.app/api?username=jong-jang&show_icons=true&theme=radical)
  
 </div>
 
