@@ -1,9 +1,3 @@
-<div align=center>
-
- ![jong-jang's github stats](https://github-readme-stats.vercel.app/api?username=jong-jang&show_icons=true&theme=radical)
- 
-</div>
-
 ### E-mail
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjh0299@gmail.com)](mailto:jjh0299@gmail.com)
 ### BLOG
